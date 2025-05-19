@@ -32,6 +32,10 @@ To meet these requirements, the solution is broken down into the following compo
 4. **Automation**:
     - Schedule the pipeline to run daily, ensuring that the data and reports are always up-to-date.
 
+## Architecture
+<img width="762" alt="architecture" src="https://github.com/user-attachments/assets/cc28d5f1-6eb6-4445-9780-49d1038736fe" />
+
+
 ## Technology Stack
 
 - **Azure Data Factory (ADF)**: For orchestrating data movement and transformation.
