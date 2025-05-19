@@ -76,7 +76,8 @@ To meet these requirements, the solution is broken down into the following compo
 
 1. **Load Data into Synapse**: Set up a Synapse SQL pool and load the `gold` data for analysis.
 2. **Create Power BI Dashboard**: Connect Power BI to Synapse and create visualizations based on business requirements.</br>
-   <img width="590" alt="image" src="https://github.com/user-attachments/assets/af428185-4dcb-42dc-afc8-cea16b39cdad" />
+   <img width="580" alt="image" src="https://github.com/user-attachments/assets/1098f998-696d-4bb6-9323-89ca7a4150a6" />
+
 
 
 ### Step 5: Automation and Monitoring
